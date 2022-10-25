@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV - Contact</title>
+		<link rel="stylesheet" href="../style/style.css"/>
+	</head>
+	<body>
+		<div id="head">
+			<div id="head1">
+				<h1>Pawel Kaczmarek</h1>
+			</div>
+			<div id="head2">
+				<div class="link"><a href="../index.html">Home</a></div>
+				<div class="link"><a href="../experience/experience.html">My Experience</a></div>
+				<div class="link"><a href="contact.html">Contact</a></div>
+			</div>
+		</div>
+		<div id="main">			
+			<div id="about">
+				<h1>Contact Details</h1>
+					<p>Email: kaczmarekpawel@gmail.com</p>
+					<p>Phone Num: +3533450987</p>
+					<p>Adress: Apartment 99 Block 99X Simple Cross, D99KW99, Someside, Dublin</p>
+					<p class="jump"><a href="https://www.linkedin.com/">Linkedin</a></p>
+					<p class="jump"><a href="https://www.instagram.com/">Instagram</a></p>
+					<p class="jump"><a href="#">Portfolio</a></p>
+			</div>
+		</div>
+	</body>
+</html>	<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV - Contact</title>
+		<link rel="stylesheet" href="../style/style.css"/>
+	</head>
+	<body>
+		<div id="head">
+			<div id="head1">
+				<h1>Pawel Kaczmarek</h1>
+			</div>
+			<div id="head2">
+				<div class="link"><a href="../index.html">Home</a></div>
+				<div class="link"><a href="../experience/experience.html">My Experience</a></div>
+				<div class="link"><a href="contact.html">Contact</a></div>
+			</div>
+		</div>
+		<div id="main">
+			<div id="picture"><img src="../images/me.jpg" alt="My Picture"></div>
+			<div id="About">
+				<h1>Contact Details</h1>
+					<ul>
+						<li>Email: kaczmarekpawel90@gmail.com</li>
+						<li>Phone Num: +353873964917</li>
+						<li>Adress: Apartment 34 Block 10A Cross West, D24KW18, Tallaght, Dublin </li>
+						<li class="jump"><a href="#">Linkedin</a></li>
+						<li class="jump"><a href="#">Instagram</a></li>
+						<li class="jump"><a href="#">Portfolio</a></li>
+					</ul>
+			</div>
+		</div>
+	</body>
+</html>	

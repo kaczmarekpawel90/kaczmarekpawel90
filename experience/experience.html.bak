@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV - Experience</title>
+		<link rel="stylesheet" href="../style/style.css"/>
+	</head>
+	<body>
+		<div id="head">
+			<div id="head1">
+				<h1>Pawel Kaczmarek</h1>
+			</div>
+			<div id="head2">
+				<div class="link"><a href="../index.html">Home</a></div>
+				<div class="link"><a href="experience.html">My Experience</a></div>
+				<div class="link"><a href="../contact/contact.html">Contact</a></div>
+			</div>
+		</div>
+		<div id="main">
+			<div id="picture"><img src="../images/me.jpg" alt="My Picture"></div>
+			<div id="About">
+				<h1>Education</h1>
+					<p>Diploma of Higher Education, Economics, Zespol Szkol Nr.3 im. Kombatantow RP - 04/2010 - Dzierzoniow, Poland</p>
+					<p>Certificate of Higher Education, Certificate in Science in Computing, National College of Ireland - 05/2022 - Dublin, Ireland</p>
+				<h1>Experience</h1>
+					<p>11/2019 to Current, Deputy Store Manager, ALDI - Tallaght, Dublin. Promoted to Deputy Store Manager - Nov 2020 As a Deputy Store Manager my responsibilities including leading, motivating and managing team.</p>
+					<p>10/2013 to 11/2019, Area Leader, McDonald's - Tallaght, Dublin. As an Area Leader my responsibilities include leading, motivating and managing a team, supporting the shift manger, and on the floor operational and maintenance tasks. My personal responsibilities include equipment maintenance, food safety and health and safety, and the overseeing and management of two deliveries per week</p>
+			</div>
+		</div>
+	</body>
+</html>	
