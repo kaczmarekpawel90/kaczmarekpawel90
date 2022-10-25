@@ -1,0 +1,50 @@
+body{
+	background:#008FFF;
+	margin:0px;
+	font-family:Helvetica;
+	line-height:1.5;
+	color:white;
+}
+#name{
+	color:white;
+}
+#head, #main{
+	display:flex;
+}
+#head{
+	font-size:200%;
+}
+#head1{
+	flex:2;	
+	text-align:center;
+}
+#head2{
+	display:flex;
+	flex:10;	
+	align-items:center;
+}
+.link{
+	flex:3;
+	text-align:center;
+}
+a{
+	color:white;
+}
+#main{
+	min-height:600px;
+	font-size:100%;
+	background:#25B0FF;
+}
+#picture{
+	flex:2;	
+	text-align:center;
+	padding:5%;
+}
+#about{
+	flex:10;
+	padding:5%;
+	text-align:center;
+}
+.jump:hover{
+	font-size:150%;
+}
